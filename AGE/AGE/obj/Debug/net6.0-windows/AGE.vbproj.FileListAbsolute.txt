@@ -1,0 +1,17 @@
+C:\Users\jmalm\source\repos\AGE\AGE\bin\Debug\net6.0-windows\AGE.exe
+C:\Users\jmalm\source\repos\AGE\AGE\bin\Debug\net6.0-windows\AGE.deps.json
+C:\Users\jmalm\source\repos\AGE\AGE\bin\Debug\net6.0-windows\AGE.runtimeconfig.json
+C:\Users\jmalm\source\repos\AGE\AGE\bin\Debug\net6.0-windows\AGE.dll
+C:\Users\jmalm\source\repos\AGE\AGE\bin\Debug\net6.0-windows\AGE.pdb
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.vbproj.AssemblyReference.cache
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.Form1.resources
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.vbproj.GenerateResource.cache
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.AssemblyInfoInputs.cache
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.AssemblyInfo.vb
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.vbproj.CoreCompileInputs.cache
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.dll
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\refint\AGE.dll
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.pdb
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\AGE.genruntimeconfig.cache
+C:\Users\jmalm\source\repos\AGE\AGE\obj\Debug\net6.0-windows\ref\AGE.dll
